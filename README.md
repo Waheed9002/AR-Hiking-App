@@ -28,11 +28,17 @@ To install and run the AR Hiking App, follow these steps:
    flutter run
 
 ## Usage
+
 **Start a Hike:** Open the app and select the feature you want to use.
+
 **Wildlife Identification: **Use the AR camera feature to identify wildlife during your hike.
+
 **Receive Alerts: **Get notified if a dangerous animal is detected in your vicinity.
+
 **Access Safety Tips:** View safety tips for hiking and dealing with wildlife encounters.
+
 **Send SOS:** Use the SOS feature to send emergency messages and make calls.
+
 **Check Weather:** View current weather conditions to prepare for your hike.
 
 **Requirements**
