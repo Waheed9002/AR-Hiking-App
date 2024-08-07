@@ -54,5 +54,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions or support, please contact **Waheedanwar9002@gmail.com**.
 
 ## Acknowledgements
-Flutter for the framework.
-GitHub for version control.   
+- Flutter for the framework.
+- GitHub for version control.   
