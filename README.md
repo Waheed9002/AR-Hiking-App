@@ -39,20 +39,20 @@ To install and run the AR Hiking App, follow these steps:
 **Send SOS**: Use the SOS feature to send emergency messages and make calls.
 **Check Weather**: View current weather conditions to prepare for your hike.
   
-**Requirements**
+## Requirements**
 **Flutter**: Ensure you have Flutter installed and properly configured.
 **Internet Connection**: Required for weather updates and certain app functionalities.
 **Permissions**: The app requires permissions for camera access, location services, and internet connectivity.
 
-**Contribution**
+## Contribution**
 Contributions to the development of this app are welcome. Please fork the repository, make your changes, and submit a pull request.
 
-**License**
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**Contact**
+## Contact
 For questions or support, please contact **Waheedanwar9002@gmail.com**.
 
-**Acknowledgements**
+## Acknowledgements
 Flutter for the framework.
 GitHub for version control.   
