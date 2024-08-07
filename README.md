@@ -19,13 +19,13 @@ To install and run the AR Hiking App, follow these steps:
    git clone https://github.com/yourusername/AR-Hiking-App.git
    
 2. Navigate to the project directory:
-   cd AR-Hiking-App
+3.       cd AR-Hiking-App
 
-3. Install dependencies:
-   flutter pub get
+4. Install dependencies:
+5.       flutter pub get
 
-4. Run the app:
-   flutter run
+6. Run the app:
+7.       flutter run
 
 ## Usage
 
