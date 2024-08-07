@@ -11,6 +11,14 @@ The AR Hiking App is a comprehensive mobile application designed to enhance your
 - **Emergency SOS**: Send SOS messages and make emergency calls directly from the app. This feature includes sending a custom SOS message with your location to your contacts.
 - **Weather Updates**: Stay informed about current weather conditions with real-time updates to help you plan your hike effectively.
 
+## Technologies Used
+- **Flutter:** For building the cross-platform mobile application.
+ - **YOLOv7:** For wildlife identification and detection.
+- **ARCore / ARKit:** For implementing augmented reality features.
+- **Google Maps API:** For displaying maps and navigation.
+- **Firebase / Other Backend Service:** For user authentication and data storage.
+- **OpenWeatherMap API:** For fetching and displaying weather updates.
+
 ## Installation
 To install and run the AR Hiking App, follow these steps:
 
