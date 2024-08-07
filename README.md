@@ -33,6 +33,8 @@ To install and run the AR Hiking App, follow these steps:
 ## Usage
 
 - **Start a Hike:** Open the app and select the feature you want to use.
+- **Explore Trails**: Use the AR features to view hiking trails and landmarks.
+- **Navigate**: Follow the AR-guided navigation to your destination.
 - **Wildlife Identification**: Use the AR camera feature to identify wildlife during your hike.
 - **Receive Alerts**: Get notified if a dangerous animal is detected in your vicinity.
 - **Access Safety Tips**: View safety tips for hiking and dealing with wildlife encounters.
