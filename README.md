@@ -19,30 +19,30 @@ To install and run the AR Hiking App, follow these steps:
    git clone https://github.com/yourusername/AR-Hiking-App.git
    
 2. Navigate to the project directory:
-3.       cd AR-Hiking-App
+   ```bash 
+   cd AR-Hiking-App
 
-4. Install dependencies:
-5.       flutter pub get
+3. Install dependencies:
+   ```bash
+   flutter pub get
 
-6. Run the app:
-7.       flutter run
+4. Run the app:
+   ```bash
+   flutter run
 
 ## Usage
 
 - **Start a Hike:** Open the app and select the feature you want to use.
 - **Wildlife Identification**: Use the AR camera feature to identify wildlife during your hike.
 **Receive Alerts**: Get notified if a dangerous animal is detected in your vicinity.
-
 **Access Safety Tips**: View safety tips for hiking and dealing with wildlife encounters.
-
-**Send SOS:** Use the SOS feature to send emergency messages and make calls.
-
-**Check Weather:** View current weather conditions to prepare for your hike.
-
+**Send SOS**: Use the SOS feature to send emergency messages and make calls.
+**Check Weather**: View current weather conditions to prepare for your hike.
+  
 **Requirements**
-**Flutter:** Ensure you have Flutter installed and properly configured.
-**Internet Connection:** Required for weather updates and certain app functionalities.
-**Permissions:** The app requires permissions for camera access, location services, and internet connectivity.
+**Flutter**: Ensure you have Flutter installed and properly configured.
+**Internet Connection**: Required for weather updates and certain app functionalities.
+**Permissions**: The app requires permissions for camera access, location services, and internet connectivity.
 
 **Contribution**
 Contributions to the development of this app are welcome. Please fork the repository, make your changes, and submit a pull request.
