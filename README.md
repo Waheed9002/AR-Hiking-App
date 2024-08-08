@@ -5,7 +5,7 @@ The AR Hiking App is a comprehensive mobile application designed to enhance your
 
 ## Features
 - **Wildlife Identification**: Identify various wildlife species encountered during your hike. Use the camera to identify various wildlife species encountered during your hike.
-- **Augmented Reality (AR)**: The app leverages augmented reality to overlay information about animals in your view.
+- **Augmented Reality (AR)**: The app leverages augmented reality to overlay information about Landmarks and user navigation in your view.
 - **Danger Alerts**: Receive alerts for potentially dangerous animals such as bears, lions, and wolves to ensure your safety. The app will notify you immediately if a dangerous animal is detected.
 - **Safety Tips**: Access essential safety tips for hiking and wildlife encounters to stay safe during your adventures.
 - **Emergency SOS**: Send SOS messages and make emergency calls directly from the app. This feature includes sending a custom SOS message with your location to your contacts.
@@ -43,7 +43,7 @@ To install and run the AR Hiking App, follow these steps:
 - **Start a Hike:** Open the app and select the feature you want to use.
 - **Explore Trails**: Use the AR features to view hiking trails and landmarks.
 - **Navigate**: Follow the AR-guided navigation to your destination.
-- **Wildlife Identification**: Use the AR camera feature to identify wildlife during your hike.
+- **Wildlife Identification**: Use the camera to identify wildlife during your hike.
 - **Receive Alerts**: Get notified if a dangerous animal is detected in your vicinity.
 - **Access Safety Tips**: View safety tips for hiking and dealing with wildlife encounters.
 - **Send SOS**: Use the SOS feature to send emergency messages and make calls.
