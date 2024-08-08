@@ -55,7 +55,7 @@ To install and run the AR Hiking App, follow these steps:
 - **Permissions**: The app requires permissions for camera access, location services, and internet connectivity.
 
 ## Contribution
-Contributions to the development of this app are welcome. Please fork the repository, make your changes, and submit a pull request.
+Contributions to this app are welcome. Please fork the repository, make your changes, and submit a pull request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
