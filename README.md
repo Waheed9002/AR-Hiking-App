@@ -24,7 +24,7 @@ To install and run the AR Hiking App, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AR-Hiking-App.git
+   git clone https://github.com/waheed9002/AR-Hiking-App.git
    
 2. Navigate to the project directory:
    ```bash 
